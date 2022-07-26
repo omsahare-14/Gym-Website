@@ -1,0 +1,1 @@
+This is the "Join Us" page of xyz gym. This page is made using HTML and CSS only.
